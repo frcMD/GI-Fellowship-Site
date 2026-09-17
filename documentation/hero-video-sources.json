@@ -1,0 +1,99 @@
+{
+  "updated": "2026-09-16",
+  "source": "User-provided drone footage and fellowship film",
+  "duration_seconds": 54,
+  "audio": "removed",
+  "frame_rate": 24,
+  "shot_cadence_seconds": 6,
+  "crossfade_seconds": 0.625,
+  "opening_fix": "Replaced the earlier West excerpt, which crossed a source cut at about 64.65 seconds, with a single continuous street view. Every selected source interval was checked for internal scene changes.",
+  "clinical_edit": "Short clinical shots use slow motion with frame interpolation to preserve the calm pacing without crossing interview cuts.",
+  "loop": "Tail crossfades into opening frames; the next loop continues from that same opening point.",
+  "shots": [
+    {
+      "site": "west",
+      "source_file": "Drone_MountSinaiWest.mp4",
+      "source_start_seconds": 0.5,
+      "source_duration_seconds": 5.300000000000001,
+      "playback_speed": 0.8,
+      "edited_duration_seconds": 6.625,
+      "description": "Uninterrupted opening aerial with West entrance and surrounding street"
+    },
+    {
+      "site": "morningside",
+      "source_file": "Drone_Morningside_String_2.mp4",
+      "source_start_seconds": 188,
+      "source_duration_seconds": 5.300000000000001,
+      "playback_speed": 0.8,
+      "edited_duration_seconds": 6.625,
+      "description": "Entrance and bridges around the requested 3:08 point"
+    },
+    {
+      "site": "endoscopy",
+      "source_file": "YTDown.com_YouTube_Gastroenterology-Fellowship-at-Mount-Sin_Media_F1J-Sg23I4M_001_1080p.mp4",
+      "source_start_seconds": 75.7,
+      "source_duration_seconds": 2.6500000000000004,
+      "playback_speed": 0.4,
+      "edited_duration_seconds": 6.625,
+      "description": "Fellow scoping with faculty support alongside"
+    },
+    {
+      "site": "union-square",
+      "source_file": "Drone_Union Square.mp4",
+      "source_start_seconds": 8,
+      "source_duration_seconds": 5.300000000000001,
+      "playback_speed": 0.8,
+      "edited_duration_seconds": 6.625,
+      "description": "Union Square aerial with surrounding neighborhood"
+    },
+    {
+      "site": "west",
+      "source_file": "Drone_MountSinaiWest.mp4",
+      "source_start_seconds": 97,
+      "source_duration_seconds": 5.300000000000001,
+      "playback_speed": 0.8,
+      "edited_duration_seconds": 6.625,
+      "description": "Wider West view around 1:40, ending before the source cut"
+    },
+    {
+      "site": "ultrasound",
+      "source_file": "YTDown.com_YouTube_Gastroenterology-Fellowship-at-Mount-Sin_Media_F1J-Sg23I4M_001_1080p.mp4",
+      "source_start_seconds": 181.5,
+      "source_duration_seconds": 3.3125,
+      "playback_speed": 0.5,
+      "edited_duration_seconds": 6.625,
+      "description": "Clear endoscopic ultrasound image on the monitor"
+    },
+    {
+      "site": "morningside",
+      "source_file": "Drone_Morningside_String_2.mp4",
+      "source_start_seconds": 30,
+      "source_duration_seconds": 5.300000000000001,
+      "playback_speed": 0.8,
+      "edited_duration_seconds": 6.625,
+      "description": "Morningside campus aerial"
+    },
+    {
+      "site": "west",
+      "source_file": "Drone_MountSinaiWest.mp4",
+      "source_start_seconds": 111,
+      "source_duration_seconds": 5.300000000000001,
+      "playback_speed": 0.8,
+      "edited_duration_seconds": 6.625,
+      "description": "Zoomed-out West and skyline view following the 1:40 sequence"
+    },
+    {
+      "site": "union-square",
+      "source_file": "Drone_Union Square.mp4",
+      "source_start_seconds": 32,
+      "source_duration_seconds": 5.300000000000001,
+      "playback_speed": 0.8,
+      "edited_duration_seconds": 6.625,
+      "description": "Closer Union Square aerial before returning to West"
+    }
+  ],
+  "assets": [
+    "assets/hero-drone-720.mp4",
+    "assets/hero-drone-360.mp4"
+  ]
+}

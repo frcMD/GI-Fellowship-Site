@@ -1,0 +1,98 @@
+{
+  "fellow_headshots": {
+    "Anwesh Dash": "assets/anwesh-dash.png",
+    "Gabrielle Gillow": "assets/gabrielle-gillow.png",
+    "Alexander Imas": "assets/alexander-imas.png",
+    "Do Han Kim": "assets/do-han-kim.png",
+    "Marlon Brewer": "assets/marlon-brewer-md-6574771.jpeg",
+    "Catherine Chang": "assets/catherine-chang-md-6574787.png",
+    "Frank Chung": "assets/frank-chung-md-6574781.jpg",
+    "Lodoe Sangmo": "assets/lodoe-sangmo-md-6574776.jpeg",
+    "David Brand": "assets/david-brand-md-5505918.jpg",
+    "Randy Leibowitz": "assets/randy-leibowitz-do-5506053.png",
+    "Arance Paasewe": "assets/arence-paasewe-md-5505916.jpg",
+    "Kevin Yang": "assets/kevin-yang-md-5505920.jpg"
+  },
+  "faculty": [
+    {
+      "name": "Zoe Lawrence, MD",
+      "file": "assets/zoe-lawrence-md-5502024.jpg",
+      "source": "https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/36940/lawrence_headshot.13a5ec483211.jpg",
+      "profile": "https://profiles.mountsinai.org/zoe-lawrence2"
+    },
+    {
+      "name": "Bruce Sands, MD, MS",
+      "file": "assets/bruce-sands-md-ms-2194012.jpg",
+      "source": "https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/36940/2110807_sands_bruce_842.9879ef4affb7.jpg",
+      "profile": null
+    },
+    {
+      "name": "Brett Bernstein, MD, MBA",
+      "file": "assets/brett-bernstein-md-mba-2191462.jpg",
+      "source": "https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/36940/bernsteinbrett_177.7f272fc7cb09.jpg",
+      "profile": null
+    },
+    {
+      "name": "Kimberly Cavaliere, MD",
+      "file": "assets/kimberly-cavaliere-md-4187447.jpeg",
+      "source": "https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/36940/2bbe4448-a3ab-4c68-a96a-27d226f91672_1_201_a.f7da40c96c9e.jpeg",
+      "profile": "https://profiles.mountsinai.org/kimberly-rae-cavaliere"
+    },
+    {
+      "name": "Ian Cohen, MD",
+      "file": "assets/ian-cohen-md-5502014.jpg",
+      "source": "https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/36940/4008942_cohen_ian_15019.b3af5e22b012.jpg",
+      "profile": "https://profiles.mountsinai.org/ian-cohen"
+    },
+    {
+      "name": "Daniela Jodorkovsky, MD",
+      "file": "assets/daniela-jodorkovsky-md-4951760.jpeg",
+      "source": "https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/36940/jodorkovskyjfif.4397c79b765b.jpeg",
+      "profile": "https://profiles.mountsinai.org/daniela-jodorkovsky"
+    },
+    {
+      "name": "Ayanna Lewis, MD",
+      "file": "assets/ayanna-lewis-md-4897964.jpeg",
+      "source": "https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/36940/e9064eb4-92d6-4f75-afbc-93af293ab918_1_201_a.d1929891b24a.jpeg",
+      "profile": "https://profiles.mountsinai.org/ayanna-lewis"
+    },
+    {
+      "name": "Edward Lung, MD",
+      "file": "assets/edward-lung-md-2212003.jpg",
+      "source": "https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/36940/2369342_lung_edward2449_117434.3643fbe6fed6.jpg",
+      "profile": null
+    },
+    {
+      "name": "Yuying Luo, MD",
+      "file": "assets/yuying-luo-md-5223804.jpeg",
+      "source": "https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/36940/luo_yuying.556e95cde435.jpeg",
+      "profile": "https://profiles.mountsinai.org/yuying-luo"
+    },
+    {
+      "name": "Joshua Novak, MD",
+      "file": "assets/joshua-novak-md-4252457.jpeg",
+      "source": "https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/36940/joshua_novak.ac6b03619549.jpeg",
+      "profile": "https://profiles.mountsinai.org/joshua-d-novak"
+    },
+    {
+      "name": "Tina Park, MD",
+      "file": "assets/tina-park-md-2212009.jpg",
+      "source": "https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/36940/tpark.802ca5306c90.jpg",
+      "profile": null
+    },
+    {
+      "name": "Priyanka Singh, MD",
+      "file": "assets/priyanka-singh-md-4252670.jpeg",
+      "source": "https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/36940/4c4ec742-15c5-4331-975a-7cf55d5470b3.11eafe861359.jpeg",
+      "profile": "https://profiles.mountsinai.org/priyanka-l-singh"
+    },
+    {
+      "name": "Michael S. Smith, MD, MBA",
+      "file": "assets/michael-s-smith-md-mba-2212007.jpg",
+      "source": "https://assets.foleon.com/eu-central-1/de-uploads-7e3kk3/36940/msmith.f74faca80f5f.jpg",
+      "profile": null
+    }
+  ],
+  "brochure": "https://icahn.foleon.com/fellowships/2023-2024gastroenterology-fellowship-at-msm-msw/",
+  "first_year_source": "2026\u20132027 fellowship facesheet; embedded portraits only"
+}

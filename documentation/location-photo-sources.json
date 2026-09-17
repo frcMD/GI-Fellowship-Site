@@ -1,0 +1,50 @@
+[
+  {
+    "site": "west",
+    "asset": "assets/location-west.jpg",
+    "source": "User-provided photograph",
+    "source_file": "160331_hamerman_413(2).jpg",
+    "updated": "2026-09-15",
+    "dimensions": {
+      "width": 1536,
+      "height": 1024
+    },
+    "display": "Responsive 3:2 frame; original photograph retained without pixel edits."
+  },
+  {
+    "site": "morningside",
+    "asset": "assets/location-morningside.jpg",
+    "source": "User-provided photograph",
+    "source_file": "Morningside.jpg",
+    "updated": "2026-09-15",
+    "dimensions": {
+      "width": 1536,
+      "height": 1024
+    },
+    "display": "Responsive 3:2 frame; original photograph retained without pixel edits."
+  },
+  {
+    "site": "union-square",
+    "asset": "assets/location-union-square.jpg",
+    "source": "User-provided photograph",
+    "source_file": "_N8A0588(1).jpg",
+    "updated": "2026-09-15",
+    "dimensions": {
+      "width": 1536,
+      "height": 1025
+    },
+    "display": "Responsive 3:2 frame; original photograph retained without pixel edits."
+  },
+  {
+    "site": "mount-sinai",
+    "asset": "assets/location-mount-sinai.jpg",
+    "source": "User-provided photograph",
+    "source_file": "1000174588.jpg",
+    "updated": "2026-09-16",
+    "dimensions": {
+      "width": 1536,
+      "height": 1024
+    },
+    "display": "Responsive 3:2 frame; original photograph retained without pixel edits."
+  }
+]

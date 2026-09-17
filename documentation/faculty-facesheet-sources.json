@@ -1,0 +1,59 @@
+{
+  "source": "FACESHEET- FACULTY MSDUS-MSH LIVER MEDICINE.pdf",
+  "faculty": [
+    {
+      "name": "Bruce Gelman, MD",
+      "profile": "https://profiles.mountsinai.org/bruce-gelman",
+      "image": "bruce-gelman-faculty.png",
+      "group": "Morningside & West"
+    },
+    {
+      "name": "Mantej Sehmbhi, MBBS",
+      "profile": "https://profiles.mountsinai.org/mantej-sehmbhi",
+      "image": "mantej-sehmbhi-faculty.png",
+      "group": "Morningside & West"
+    },
+    {
+      "name": "Angad Uberoi, MBBS",
+      "profile": "https://profiles.mountsinai.org/angad-uberoi",
+      "image": "angad-uberoi-faculty.png",
+      "group": "Morningside & West"
+    },
+    {
+      "name": "Custon Nyabanga, MD",
+      "profile": "https://profiles.mountsinai.org/custon-nyabanga",
+      "image": "custon-nyabanga-faculty.png",
+      "group": "Downtown Union Square"
+    },
+    {
+      "name": "Melissa Kang, MD",
+      "profile": "https://profiles.mountsinai.org/melissa-r-kang",
+      "image": "melissa-r-kang-faculty.png",
+      "group": "Downtown Union Square"
+    },
+    {
+      "name": "Sarah Park, MD",
+      "profile": "https://profiles.mountsinai.org/sarah-h-park",
+      "image": "sarah-park2-faculty.png",
+      "group": "Downtown Union Square"
+    },
+    {
+      "name": "Joseph Mizrahi, MD",
+      "profile": "https://profiles.mountsinai.org/joseph-mizrahi",
+      "image": "joseph-mizrahi-faculty.png",
+      "group": "Downtown Union Square"
+    },
+    {
+      "name": "Meena Bansal, MD",
+      "profile": "https://profiles.mountsinai.org/meena-b-bansal",
+      "image": "meena-b-bansal-faculty.png",
+      "group": "Liver Medicine"
+    },
+    {
+      "name": "Frances Lee, MD",
+      "profile": "https://profiles.mountsinai.org/frances-lee3",
+      "image": "frances-lee2-faculty.png",
+      "group": "Liver Medicine"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "updated": "2026-09-11",
+  "program": "https://icahn.mssm.edu/education/residencies-fellowships/list/msm-msw-gastroenterology-fellowship",
+  "director_welcome": "https://icahn.foleon.com/fellowships/2023-2024gastroenterology-fellowship-at-msm-msw/message-from-director",
+  "historical_alumni": "https://icahn.foleon.com/fellowships/2023-2024gastroenterology-fellowship-at-msm-msw/recent-graduates",
+  "housing_rates": "https://icahn.mssm.edu/files/ISMMS/Assets/Education/Residencies-Fellowships/Housing/MSWM-RentalRates-HousingPolicy.pdf",
+  "market_studio_median": {
+    "url": "https://www.renthop.com/average-rent-in/hells-kitchen-new-york-ny",
+    "period": "September 2026",
+    "amount": 3770
+  },
+  "subway_map": "https://www.mta.info/map/36946",
+  "geography": "https://raw.githubusercontent.com/dwillis/nyc-maps/master/boroughs.geojson",
+  "user_supplied_updates": [
+    "2026\u20132027 salaries",
+    "educational stipend and increase in 2027",
+    "vacation and personal days",
+    "conference reimbursement and ASGE attendance",
+    "boards and call schedule",
+    "Uber expense account",
+    "clinic selection",
+    "transplant rotation duration",
+    "motility center",
+    "shuttles and education conferences"
+  ],
+  "faculty_note": "Edward Lung removed from the faculty roster at user request.",
+  "subway_graphic": "Vector geometry extracted from the MTA base map. Selected 1/A/B/C/D/N/Q/R/W route trunks highlighted, other geometry faded."
+}
